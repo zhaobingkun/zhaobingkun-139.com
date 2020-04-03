@@ -9,7 +9,7 @@ spring:
       server:
         git:
           skipSslValidation: true
-          uri: https://github.com/Romantic-Lei/mergeTest.git #github上仓库名
+          uri: https://github.com/zhaobingkun/zhaobingkun-139.com.git #github上仓库名
           #搜索目录，相当于是git上 Repositories 名字
           search-paths:
             - mergeTest
